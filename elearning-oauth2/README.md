@@ -20,9 +20,3 @@ Serveurs utilisés par défaut :
 - Protéger l'API Spring Boot avec OAuth2 Resource Server (JWT)
 - Protéger la SPA React via `keycloak-js` et envoyer le token dans Authorization
 - Gérer rôles ROLE_STUDENT et ROLE_ADMIN
-
----
-
-Je vais maintenant implémenter la structure et le code pour le backend, le frontend et la doc Keycloak. Ensuite je fournirai des instructions pour lancer et tester le projet localement.
-
-Bon travail ! (style étudiant)
